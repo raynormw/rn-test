@@ -13,4 +13,5 @@
 	1. Readable code
 	2. Syntax choice, ES6 included
 	3. Code structure sesuai linting (bisa menggunakan es-lint untuk linting)
-* Good luck!!
+
+# Good luck!!
